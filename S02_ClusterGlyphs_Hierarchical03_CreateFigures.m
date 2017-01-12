@@ -14,9 +14,9 @@ warning('off','images:imshow:magnificationMustBeFitForDockedFigure')
 
 % vFilenames = { 'Roman_Font_Test_Small.tif' };
 vFilenames = { 'Roman_Font_Test.tif' };
-vFilenames = { 'Rosetta Stone_All_Test.tif' };
-% vFilenames = { 'Rosetta Stone_All.tif' };
-% vFilenames = { 'Rosetta Stone_All.tif' 'Roman_Font_Test.tif' };
+vFilenames = { 'Rosetta_Stone_All_Test.tif' };
+% vFilenames = { 'Rosetta_Stone_All.tif' };
+% vFilenames = { 'Rosetta_Stone_All.tif' 'Roman_Font_Test.tif' };
 
 
 mGlyphPolygonsAll = [];

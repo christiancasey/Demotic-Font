@@ -14,8 +14,8 @@ warning('off','images:imshow:magnificationMustBeFitForDockedFigure')
 
 strFilename = 'Roman_Font_Test_Small.tif';
 strFilename = 'Roman_Font_Test.tif';
-strFilename = 'Rosetta Stone_All_Test.tif';
-strFilename = 'Rosetta Stone_All.tif';
+strFilename = 'Rosetta_Stone_All_Test.tif';
+strFilename = 'Rosetta_Stone_All.tif';
 
 img = imread(strFilename);
 [iHeight iWidth] = size(img);
