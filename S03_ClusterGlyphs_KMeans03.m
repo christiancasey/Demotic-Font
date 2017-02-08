@@ -2,7 +2,6 @@
 
 %% Script Initialization
 switchToCD;
-clc;
 clc;	clear;	close all;	
 whitebg('k');	colormap iris;
 plottools('off')
